@@ -7,7 +7,7 @@
 - Firestore as the database 
 - Firebase for authentication, storage of images and and hosting.
 
-**To view the project go to: **
+**To view the project go to:**
 https://image-repo-app.web.app/
 
 **Things to try:**
